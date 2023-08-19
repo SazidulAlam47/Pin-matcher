@@ -1,4 +1,4 @@
-# Pin-matcher
+# Pin Matcher
 
 <p>Welcome to the GitHub repository for the Pin Matcher website! This project contains the source code for a web application that allows users to generate and match PIN codes for verification purposes. The website offers an interactive interface where users can input a PIN and attempt to match it with a randomly generated PIN. It's a simple yet useful tool for practicing PIN verification scenarios or understanding basic web development concepts.</p>
 
